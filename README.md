@@ -10,3 +10,4 @@ El proyecto fue realizado con fines educativos
 - Live data
 - View Model
 - View Binding
+https://github.com/gquilcaval/chat-basico/issues/1#issue-932387922
