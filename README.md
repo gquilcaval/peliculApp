@@ -10,4 +10,4 @@ El proyecto fue realizado con fines educativos
 - Live data
 - View Model
 - View Binding
-https://github.com/gquilcaval/chat-basico/issues/1#issue-932387922
+![New Recording - 29_6_2021 3_31_36](https://user-images.githubusercontent.com/35823155/123768918-60726f00-d88e-11eb-96b8-49066aa62af1.gif)
